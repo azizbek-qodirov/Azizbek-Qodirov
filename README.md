@@ -56,14 +56,11 @@
 ![Repo Watchers](https://img.shields.io/github/watchers/Azizbek-Qodirov/Azizbek-Qodirov?color=purple&style=for-the-badge&logo=github)
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Azizbek Qodirov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azizbek-Qodirov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
+--- stats
+![Azizbek-Qodirov's Stats](https://github-readme-stats.vercel.app/api?username=Azizbek-Qodirov&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![Azizbek-Qodirov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizbek-Qodirov&theme=highcontrast&hide_border=false)
+![Azizbek-Qodirov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek-Qodirov&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+---
 ### Hacking the Future 🌐
 
 - 🧠 **Skills**: Go, Docker, RabbitMQ, Microservices
