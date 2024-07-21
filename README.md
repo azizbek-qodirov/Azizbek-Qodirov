@@ -1,4 +1,4 @@
-## Welcome to My GitHub Profile! 👾
+## Welcome to My Digital Realm! 👾
 
 **Azizbek-Qodirov/Azizbek-Qodirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -6,21 +6,21 @@
 
 🖥️ **Tech Enthusiast** | 🚀 **Innovator** | 🛠️ **Creator**
 
-- 🔭 Currently diving into:
-  - Cutting-edge Golang projects: API gateways, chat applications, and language learning tools.
-  - Mastering RabbitMQ for high-availability microservices.
+- 🔭 Currently hacking on:
+  - Cutting-edge Golang projects and microservices.
+  - High-availability RabbitMQ integrations.
 
-- 🌱 Learning:
-  - Advanced Golang techniques and RabbitMQ optimization.
+- 🌱 Currently mastering:
+  - Advanced Go techniques and optimizing RabbitMQ.
 
-- 👯 Collaborating on:
-  - Open-source ventures in Golang, Docker, and microservices.
+- 👯 Open to collaborations on:
+  - Open-source projects and tech ventures.
 
-- 🤔 Need help with:
-  - Performance tuning for high-traffic systems and robust distributed data handling.
+- 🤔 Seeking assistance with:
+  - High-performance systems and distributed data handling.
 
 - 💬 Ask me about:
-  - Go, Docker, RabbitMQ, and microservices best practices.
+  - Go, Docker, RabbitMQ, and microservices.
 
 - 📫 Reach me at:
   - [LinkedIn](https://www.linkedin.com/in/azizbek-qodirov) | [Twitter](https://twitter.com/azizbek_qodirov)
@@ -29,31 +29,34 @@
   - He/Him
 
 - ⚡ Fun fact:
-  - I’m a tech explorer, always on the hunt for new challenges and opportunities!
+  - I’m a tech explorer, always diving into new challenges!
 
-### Stats & Metrics
+### GitHub Stats & Metrics
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek-Qodirov&theme=radical" alt="Top Languages" />
 
-<img src="https://starchart.cc/Azizbek-Qodirov/{repo}.svg" alt="Repository Activity" />
+#### Badges & Stats
 
-<img src="https://img.shields.io/github/followers/Azizbek-Qodirov.svg?style=social&label=Follow&maxAge=2592000" alt="Followers" />
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/Azizbek-Qodirov/Azizbek-Qodirov?color=purple&style=for-the-badge&logo=github)
+![GitHub Issues](https://img.shields.io/github/issues/Azizbek-Qodirov/Azizbek-Qodirov?color=red&style=for-the-badge&logo=github)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Azizbek-Qodirov/Azizbek-Qodirov?color=green&style=for-the-badge&logo=github)
 
-<img src="https://img.shields.io/github/downloads/Azizbek-Qodirov/{repo-name}/total.svg" alt="Downloads" />
+![GitHub Activity](https://img.shields.io/github/commit-activity/w/Azizbek-Qodirov/Azizbek-Qodirov?color=blue&style=for-the-badge&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/Azizbek-Qodirov/Azizbek-Qodirov?color=orange&style=for-the-badge&logo=github)
 
-<img src="https://img.shields.io/github/forks/Azizbek-Qodirov/{repo-name}.svg" alt="Forks" />
-
-<img src="https://img.shields.io/github/stars/Azizbek-Qodirov/{repo-name}.svg" alt="Stars" />
-
-<img src="https://img.shields.io/github/watchers/Azizbek-Qodirov/{repo-name}.svg" alt="Watchers" />
-
-### Visuals
-
-🕵️‍♂️ Explore my work:
-
-![Code Analysis](https://raw.githubusercontent.com/Azizbek-Qodirov/Azizbek-Qodirov/main/assets/code_analysis.png)
-![Tech Stack](https://raw.githubusercontent.com/Azizbek-Qodirov/Azizbek-Qodirov/main/assets/tech_stack.png)
+![Profile Views](https://komarev.com/ghpvc/?username=Azizbek-Qodirov&color=blue&style=flat-square)
+![Repo Stars](https://img.shields.io/github/stars/Azizbek-Qodirov/Azizbek-Qodirov?color=gold&style=for-the-badge&logo=github)
+![Repo Forks](https://img.shields.io/github/forks/Azizbek-Qodirov/Azizbek-Qodirov?color=blue&style=for-the-badge&logo=github)
+![Repo Watchers](https://img.shields.io/github/watchers/Azizbek-Qodirov/Azizbek-Qodirov?color=purple&style=for-the-badge&logo=github)
 
 ---
 
-_Hacking the future, one line at a time._ 🖤
+### Hacking the Future 🌐
+
+- 🧠 **Skills**: Go, Docker, RabbitMQ, Microservices
+- 💼 **Projects**: [Explore My Repos](https://github.com/Azizbek-Qodirov)
+- 🕵️‍♂️ **Tech Stack**: [My Tech Stack](https://github.com/Azizbek-Qodirov/tech-stack)
+
+---
+
+_“Hacking the future, one line at a time.”_ 🖤
