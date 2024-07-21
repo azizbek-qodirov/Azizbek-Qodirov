@@ -56,7 +56,7 @@
 ![Repo Watchers](https://img.shields.io/github/watchers/Azizbek-Qodirov/Azizbek-Qodirov?color=purple&style=for-the-badge&logo=github)
 
 ---
---- stats
+---
 ![Azizbek-Qodirov's Stats](https://github-readme-stats.vercel.app/api?username=Azizbek-Qodirov&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ![Azizbek-Qodirov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizbek-Qodirov&theme=highcontrast&hide_border=false)
 ![Azizbek-Qodirov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek-Qodirov&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
