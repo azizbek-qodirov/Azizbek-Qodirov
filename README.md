@@ -37,11 +37,3 @@ Here are some ideas to get you started:
 <img src="https://starchart.cc/Azizbek-Qodirov/{repo}.svg" alt="Repo Stars" />
 
 <img src="https://img.shields.io/github/followers/Azizbek-Qodirov.svg?style=social&label=Follow&maxAge=2592000" alt="Followers" />
-
-<img src="https://img.shields.io/github/downloads/Azizbek-Qodirov/{repo-name}/total.svg" alt="Downloads" />
-
-<img src="https://img.shields.io/github/forks/Azizbek-Qodirov/{repo-name}.svg" alt="Forks" />
-
-<img src="https://img.shields.io/github/stars/Azizbek-Qodirov/{repo-name}.svg" alt="Stars" />
-
-<img src="https://img.shields.io/github/watchers/Azizbek-Qodirov/{repo-name}.svg" alt="Watchers" />
