@@ -1,29 +1,47 @@
 ## Hi there 👋
 
-
 **Azizbek-Qodirov/Azizbek-Qodirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on:
+  - A variety of Golang projects, including API gateways, chat applications, and language learning tools.
+  - Integrating RabbitMQ for reliable updates in my microservices.
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={Azizbek-Qodirov}&theme=blue-green
+- 🌱 I’m currently learning:
+  - Advanced features of Golang and improving my skills with RabbitMQ and Docker.
 
-https://starchart.cc/{Azizbek-Qodirov}/{repo}.svg
+- 👯 I’m looking to collaborate on:
+  - Open-source projects, particularly those involving Golang, Docker, and microservices architecture.
 
-https://img.shields.io/github/followers/{Azizbek-Qodirov}.svg?style=social&label=Follow&maxAge=2592000
+- 🤔 I’m looking for help with:
+  - Optimizing performance in high-traffic systems and ensuring robust data handling in distributed systems.
 
-https://img.shields.io/github/downloads/{Azizbek-Qodirov}/{repo-name}/total.svg
+- 💬 Ask me about:
+  - Golang, Docker, RabbitMQ, and best practices for microservices.
 
-https://img.shields.io/github/forks/{Azizbek-Qodirov}/{repo-name}.svg
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/azizbek-qodirov)
+  - [Twitter](https://twitter.com/azizbek_qodirov)
 
-https://img.shields.io/github/stars/{username}/{repo-name}.svg 
+- 😄 Pronouns:
+  - He/Him
 
-https://img.shields.io/github/watchers/{username}/{repo-name}.svg
+- ⚡ Fun fact:
+  - I enjoy exploring new technologies and working on projects that challenge my skills and creativity.
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek-Qodirov&theme=blue-green" alt="Top Languages" />
+
+<img src="https://starchart.cc/Azizbek-Qodirov/{repo}.svg" alt="Repo Stars" />
+
+<img src="https://img.shields.io/github/followers/Azizbek-Qodirov.svg?style=social&label=Follow&maxAge=2592000" alt="Followers" />
+
+<img src="https://img.shields.io/github/downloads/Azizbek-Qodirov/{repo-name}/total.svg" alt="Downloads" />
+
+<img src="https://img.shields.io/github/forks/Azizbek-Qodirov/{repo-name}.svg" alt="Forks" />
+
+<img src="https://img.shields.io/github/stars/Azizbek-Qodirov/{repo-name}.svg" alt="Stars" />
+
+<img src="https://img.shields.io/github/watchers/Azizbek-Qodirov/{repo-name}.svg" alt="Watchers" />
