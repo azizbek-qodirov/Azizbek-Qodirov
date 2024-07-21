@@ -1,3 +1,9 @@
+<!-- Header Image -->
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*30aoNxlSnaYrLhBT0O1lzw.png" alt="Golang Header" width="1140" height="480">
+</p>
+
+
 ## Welcome to My Digital Realm! 👾
 
 **Azizbek-Qodirov/Azizbek-Qodirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
