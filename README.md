@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:qodirovazizbek249@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 100px"/>
   </a>
 </p>
 
@@ -140,13 +140,13 @@
 
 
 <!-- Coffee Gopher and Thank You Message -->
-<div align="left" style="position: relative; width: 100%; left: 0; bottom: 100px">
-    <img src="https://slackmojis.com/emojis/46362-gopher_coffee_nofill/download" width="100"
-        style="position: absolute; bottom: -100px">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=18&duration=4000&color=2C68F6&center=true&vCenter=true&width=240&height=60&lines=Thanks+for+visiting!;Enjoy+a+virtual+coffee!;Have+a+great+day!" style="bottom: 100px;" alt="Typing SVG" />
-    </div>
+<!--<div align="left" style="position: relative; width: 100%; left: 0; bottom: 100px">-->
+<img src="https://slackmojis.com/emojis/46362-gopher_coffee_nofill/download" width="100"
+    style="position: absolute; bottom: 50px">
+<div xmlns="http://www.w3.org/1999/xhtml">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=18&duration=4000&color=2C68F6&center=true&vCenter=true&width=240&height=60&lines=Thanks+for+visiting!;Enjoy+a+virtual+coffee!;Have+a+great+day!" style="position: absolute; bottom: 151px; border-radius: 100px" alt="Typing SVG" />
 </div>
+<!--</div>-->
 
 <!-- Footer -->
 <!--<p align="center">-->
