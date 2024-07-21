@@ -41,12 +41,10 @@
 </p>
 
 <!-- GitHub Stats with custom styling -->
-<div style="display:flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azizbek-Qodirov&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=2C68F6&icon_color=2C68F6&title_color=2C68F6" alt="Azizbek's GitHub Stats" width=100%/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizbek-Qodirov&theme=tokyonight&border=2C68F6" alt="Azizbek's GitHub Streak" width=92%/>
-  
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Azizbek-Qodirov&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=2C68F6&icon_color=2C68F6&title_color=2C68F6" alt="Azizbek's GitHub Stats">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizbek-Qodirov&theme=tokyonight&border=2C68F6" alt="Azizbek's GitHub Streak">
+
 <!-- Coding Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azizbek-Qodirov&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
