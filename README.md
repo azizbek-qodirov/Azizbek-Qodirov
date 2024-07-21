@@ -114,7 +114,7 @@
 <div align="center">
     <details>
         <summary>⚡ Fun Fact</summary>
-        <p>I'm a problem solver who thrives on coding challenges and debugging. I enjoy the thrill of making my code work! 💻</p>
+        <p>I have a girlfriend, and together we debug life's challenges! 💖👩‍💻👨‍💻</p>
     </details>
 </div>
 
