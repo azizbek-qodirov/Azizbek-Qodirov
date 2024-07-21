@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*30aoNxlSnaYrLhBT0O1lzw.png" alt="Golang Header" width="1500" height="480">
+  <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*30aoNxlSnaYrLhBT0O1lzw.png" alt="Golang Header" width="1500" height="240">
 </p>
 
 
