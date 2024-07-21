@@ -9,40 +9,67 @@
 <!-- Creative About Me Section -->
 <h2 align="center">👨‍💻 Code Craftsman | 🚀 Innovation Enthusiast | 🌐 Digital Alchemist</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-<p align="center">
-  At 18, I'm a passionate Golang developer with a knack for building robust and scalable applications. My journey in tech started early, and I've been honing my skills in backend development, focusing on microservices architecture and distributed systems. I thrive on challenges and am always eager to learn and implement cutting-edge technologies.
-</p>
-
-<p align="center">
-  🎓 Currently pursuing my degree in Computer Science<br>
-  💼 Freelance developer specializing in Golang and backend solutions<br>
-  🌱 Learning cloud technologies and DevOps practices<br>
-  🏆 Winner of local coding competitions<br>
-  📚 Avid reader of tech blogs and open-source contributor
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div>
+        <!-- Coffee Gopher and Thank You Message -->
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=18&duration=3000&color=2C68F6&center=true&vCenter=true&width=240&height=60&lines=I+know+Go.+☕;I+know+Docker.+☕;I+know+RabbitMQ.+☕;I+know+Microservices.+☕;I+know+MongoDB.+☕;I+know+Redis.+☕;I+know+PostgreSQL.+☕;I+know+Python.+☕;I+know+Telegram+Bot.+☕;I+know+HTML5.+☕;I+know+CSS3.+☕;I+know+JavaScript.+☕"
+                style="border-radius: 100px" alt="Typing SVG" />
+        </div>
+        <img src="https://slackmojis.com/emojis/46362-gopher_coffee_nofill/download" width="100" style="">
+    </div>
+    <div>
+        <p align="center">
+            <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+                alt="Go" />
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+                alt="Docker" />
+            <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"
+                alt="RabbitMQ" />
+            <img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=microservices&logoColor=white"
+                alt="Microservices" />
+        </p>
+        <p align="center">
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+                alt="MongoDB" />
+            <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"
+                alt="Redis" />
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
+                alt="PostgreSQL" />
+        </p>
+        <p align="center">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+                alt="Python" />
+            <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+                alt="Telegram Bot" />
+        </p>
+        <p align="center">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+                alt="HTML5" />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+                alt="CSS3" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+                alt="JavaScript" />
+        </p>
+    </div>
+</div>
+<br>
+<div style=" display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <p align="center" style="width:80%">
+        At 18, I'm a passionate Golang developer with a knack for building robust and scalable applications. My journey
+        in tech started early, and I've been honing my skills in backend development, focusing on microservices
+        architecture and distributed systems. I thrive on challenges and am always eager to learn and implement
+        cutting-edge technologies.
+    </p>
+    <p align="center">
+        🎓 Currently pursuing my degree in Computer Science<br>
+        💼 Freelance developer specializing in Golang and backend solutions<br>
+        🌱 Learning cloud technologies and DevOps practices<br>
+        🏆 Winner of local coding competitions<br>
+        📚 Avid reader of tech blogs and open-source contributor
+    </p>
+</div>
 
 <div align="center">
   <details>
@@ -90,68 +117,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:qodirovazizbek249@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 100px"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-<!-- Fun Fact -->
-<!--<div align="center">-->
-<!--  <details>-->
-<!--    <summary>⚡ Fun Fact</summary>-->
-<!--    <p>I have a girlfriend, and together we debug life's challenges! 💖👩‍💻👨‍💻</p>-->
-<!--  </details>-->
-<!--</div>-->
-
-<!-- Footer -->
-<!--<p align="center">-->
-<!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C68F6&height=100&section=footer" width="100%">-->
-<!--</p>-->
-
-<!--<p align="center">-->
-<!--  <img src="https://komarev.com/ghpvc/?username=Azizbek-Qodirov&color=2C68F6" alt="Profile views" />-->
-<!--</p>-->
-<!-- Keep all the previous content up to the Fun Fact section -->
-<!-- Fun Fact -->
-<!-- ################################################################ -->
-<!--<div align="center">-->
-<!--  <details>-->
-<!--    <summary>⚡ Fun Fact</summary>-->
-<!--    <p>I have a girlfriend, and together we debug life's challenges! 💖👩‍💻👨‍💻</p>-->
-<!--  </details>-->
-<!--</div>-->
-<!-- Coffee Gopher and Thank You Message -->
-<!--<div align="left" style="position: relative; width: 100%;">-->
-<!--  <img src="https://slackmojis.com/emojis/46362-gopher_coffee_nofill/download" width="100" style="position: absolute; bottom: -40px; left: 90px;">-->
-<!--  <p align="center" style="font-family: 'Brush Script MT', cursive; font-size: 24px; color: #2C68F6; margin-bottom: 60px;">-->
-<!--    Thank you for visiting! Enjoy a virtual coffee with Gopher! ☕️-->
-<!--  </p>-->
-<!--</div>-->
-<!-- Footer -->
-<!--<p align="center">-->
-<!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C68F6&height=100&section=footer" width="100%">-->
-<!--</p>-->
-<!--<p align="center">-->
-<!--  <img src="https://komarev.com/ghpvc/?username=Azizbek-Qodirov&color=2C68F6" alt="Profile views" />-->
-<!--</p>-->
-
-
-<!-- ##########################################################################-->
-<!-- Fun Fact -->
-
-
-<!-- Coffee Gopher and Thank You Message -->
-<!--<div align="left" style="position: relative; width: 100%; left: 0; bottom: 100px">-->
-<img src="https://slackmojis.com/emojis/46362-gopher_coffee_nofill/download" width="100"
-    style="position: absolute; bottom: 50px">
-<div xmlns="http://www.w3.org/1999/xhtml">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=18&duration=4000&color=2C68F6&center=true&vCenter=true&width=240&height=60&lines=Thanks+for+visiting!;Enjoy+a+virtual+coffee!;Have+a+great+day!" style="position: absolute; bottom: 151px; border-radius: 100px" alt="Typing SVG" />
-</div>
-<!--</div>-->
-
-<!-- Footer -->
-<!--<p align="center">-->
-<!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C68F6&height=100&section=footer" width="100%">-->
-<!--</p>-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Azizbek-Qodirov&color=2C68F6" alt="Profile views" />
