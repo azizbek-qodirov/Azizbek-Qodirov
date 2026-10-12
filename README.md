@@ -7,7 +7,7 @@
 </div>
 
 <!-- Creative About Me Section -->
-<h2 align="center">👨‍💻 Junior Golang Developer | 🚀 AI Enthusiast | 🌐 Problem Solver</h2>
+<h2 align="center">👨‍💻 Golang Developer | 🚀 AI Enthusiast | 🌐 Problem Solver</h2>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <p align="center" style="width:80%">
